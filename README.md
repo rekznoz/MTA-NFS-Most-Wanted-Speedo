@@ -1,4 +1,4 @@
-# NFSMW_Speedo
+# MTA-NFS-Most-Wanted-Speedo-main
 
 Velocímetro de estilo Need for Speed: Most Wanted para MTA:SA, con velocidad digital, cuentarrevoluciones e indicadores de vida del vehículo y nitro.
 
@@ -10,9 +10,9 @@ Velocímetro de estilo Need for Speed: Most Wanted para MTA:SA, con velocidad di
 
 ## Activación
 
-1. Copia la carpeta completa `NFSMW_Speedo` en la carpeta `resources` de tu servidor.
-2. En la consola del servidor ejecuta `refresh` y después `start NFSMW_Speedo`.
-3. Para arrancar el recurso con el servidor, añade `<resource src="NFSMW_Speedo" startup="1" protected="0" />` en `mtaserver.conf`.
+1. Copia la carpeta completa `MTA-NFS-Most-Wanted-Speedo-main` en la carpeta `resources` de tu servidor.
+2. En la consola del servidor ejecuta `refresh` y después `start MTA-NFS-Most-Wanted-Speedo-main`.
+3. Para arrancar el recurso con el servidor, añade `<resource src="MTA-NFS-Most-Wanted-Speedo-main" startup="1" protected="0" />` en `mtaserver.conf`.
 
 El velocímetro está **activado por defecto** para cada jugador y aparece al entrar en un vehículo, también si el recurso se inicia cuando el jugador ya está dentro.
 
